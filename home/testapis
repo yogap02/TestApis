@@ -1,0 +1,14 @@
+{
+    "openapi":"3.0.0",
+    "info":{
+        "description":"This is the description.",
+        "version":"0.0.1",
+        "title":"TestApis"
+    },
+    
+    "paths":{
+        
+    }
+    
+    
+}
